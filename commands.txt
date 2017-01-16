@@ -1,0 +1,5 @@
+cd ~/dev/git/acloudguru-acloudgurufreealexacourse
+sudo apt-get install npm
+nodejs -v
+npm install --save alexa-sdk
+zip -r game_helper.zip index.js LICENSE.txt node_modules/ package.json
